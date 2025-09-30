@@ -1,5 +1,5 @@
 import { useEffect, useId, useLayoutEffect, useRef } from 'react';
-import './ElectricBorder.css';
+import './Electricborder.css';
 
 const ElectricBorder = ({
     children,
